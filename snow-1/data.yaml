@@ -1,0 +1,12 @@
+names:
+- path
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: snow-imt6h
+  url: https://universe.roboflow.com/kurs/snow-imt6h/dataset/1
+  version: 1
+  workspace: kurs
+test: ../test/images
+train: ../train/images
+val: ../valid/images
